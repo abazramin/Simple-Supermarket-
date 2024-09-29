@@ -1,0 +1,17 @@
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\SalesInventory.exe.config
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\SalesInventory.exe
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\SalesInventory.pdb
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\LogicLayer.dll
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\DataAccessLayer.dll
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\LogicLayer.pdb
+C:\Users\abazr\source\repos\SalesInventory\bin\Debug\DataAccessLayer.pdb
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.csproj.AssemblyReference.cache
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.Form1.resources
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.Properties.Resources.resources
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.csproj.GenerateResource.cache
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.csproj.CoreCompileInputs.cache
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInv.EB081631.Up2Date
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.exe
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.pdb
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.AllProduct.resources
+C:\Users\abazr\source\repos\SalesInventory\obj\Debug\SalesInventory.UpdateProducts.resources
