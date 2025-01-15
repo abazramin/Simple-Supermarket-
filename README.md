@@ -17,14 +17,12 @@ simple supermarket  is a Windows Forms application developed using C# and SQL Se
 - Database Connectivity: ADO.NET
 
 ### Requirements
-- Visual Studio 2022 or newer.
-- SQL Server 2019 or newer.
-- .NET Framework (specify the version used).
+- Visual Studio 2022.
+- SQL Server 2019 .
+- .NET Fremwork.
 
 ### How to Run the Project
-1. Clone the repository:  
-  
-   git clone https://github.com/your-username/your-repo-name.git
+1. Clone the rebo
    
 2. Open the project in Visual Studio:  
    Open Visual Studio and load the project by opening the .sln file.
